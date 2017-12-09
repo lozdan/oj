@@ -1,3 +1,8 @@
+# author: Daniel Lozano
+# source: HAckerRank ( https://www.hackerrank.com )
+# problem name: Data Structures: Trees: Tree: Level Order Traversal
+# problem url: https://www.hackerrank.com/challenges/tree-level-order-traversal/problem
+
 def levelOrder(root):
     def traverse(root_node, level):
         if not root_node:

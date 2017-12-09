@@ -1,3 +1,8 @@
+# author: Daniel Lozano
+# source: HAckerRank ( https://www.hackerrank.com )
+# problem name: Data Structures: Trees: Top View
+# problem url: https://www.hackerrank.com/challenges/tree-top-view/problem
+
 def topView(root):
     instance = root
     if not root:

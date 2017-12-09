@@ -1,3 +1,8 @@
+# author: Daniel Lozano
+# source: HAckerRank ( https://www.hackerrank.com )
+# problem name: Data Structures: Trees: Binary Search Tree : Insertion
+# problem url: https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem
+
 def insert(r, val):
     if not r:
         return Node(val)
