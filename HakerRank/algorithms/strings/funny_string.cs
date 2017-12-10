@@ -7,7 +7,7 @@ problem url: https://www.hackerrank.com/challenges/funny-string/problem
 
 using System;
 
-namespace ConsoleApp1
+namespace HackerRank
 {
     class Program
     {
