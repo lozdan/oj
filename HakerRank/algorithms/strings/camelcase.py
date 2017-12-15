@@ -1,9 +1,7 @@
-/*
-author: Daniel Lozano
-source: HAckerRank(https://www.hackerrank.com )
-problem name: Algorithms > Strings > CamelCase
-problem url: https://www.hackerrank.com/challenges/camelcase/problem
-*/
+# author: Daniel Lozano
+# source: HAckerRank(https://www.hackerrank.com )
+# problem name: Algorithms > Strings > CamelCase
+# problem url: https://www.hackerrank.com/challenges/camelcase/problem
 
 s = input().strip()
 
