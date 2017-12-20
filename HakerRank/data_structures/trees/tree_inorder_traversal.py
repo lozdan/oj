@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Trees: Tree: Height of a Binary Tree
 # problem url: https://www.hackerrank.com/challenges/tree-inorder-traversal/problem
 # date: 9/12/2017

@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Trees: Binary Search Tree : Lowest Common Ancestor
 # problem url: https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem
 

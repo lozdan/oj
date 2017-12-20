@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Arrays: Left Rotation
 # problem url: https://www.hackerrank.com/challenges/array-left-rotation/problem
 # date: 8/18/2017

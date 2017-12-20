@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Algorithms: Warmup: Birthday Cake Candles
 # problem url: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 # date: 7/10/2017

@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Linked Lists: Insert a node at the head of a linked list
 # problem url: https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem
 # date: 9/1/2017

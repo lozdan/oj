@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Algorithms: Sorting: Find the Median
 # problem url: https://www.hackerrank.com/challenges/find-the-median/problem
 # date: 8/20/2017

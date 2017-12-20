@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Algorithms: Sorting: Intro to Tutorial Challenges
 # problem url: https://www.hackerrank.com/challenges/tutorial-intro/problem
 # date: 8/15/2017

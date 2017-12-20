@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Algorithms: Sorting: Quicksort 1 - Partition
 # problem url: https://www.hackerrank.com/challenges/quicksort1/problem
 # date: 8/20/2017

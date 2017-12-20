@@ -1,6 +1,6 @@
-*
+/*
 author: Daniel Lozano
-source: HAckerRank ( https://www.hackerrank.com )
+source: HackerRank ( https://www.hackerrank.com )
 problem name: Data Structures: Arrays: 2D Array - DS
 problem url: https://www.hackerrank.com/challenges/2d-array/problem
 */

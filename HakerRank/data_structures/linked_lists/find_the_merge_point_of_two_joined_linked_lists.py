@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Linked Lists: Find Merge Point of Two Lists
 # problem url: https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem
 # date: 9/6/2017

@@ -1,6 +1,6 @@
 /*
 author: Daniel Lozano
-source: HAckerRank(https://www.hackerrank.com )
+source: HackerRank(https://www.hackerrank.com )
 problem name: Algorithms > Strings > Funny String
 problem url: https://www.hackerrank.com/challenges/funny-string/problem
 */

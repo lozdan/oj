@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Linked Lists: Delete a Node
 # problem url: https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
 # date: 9/3/2017

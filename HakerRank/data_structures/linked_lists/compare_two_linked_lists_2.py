@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Linked Lists: Compare two linked lists
 # problem url: https://www.hackerrank.com/challenges/compare-two-linked-lists/problem
 # date: 9/4/2017

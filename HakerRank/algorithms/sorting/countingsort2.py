@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Algorithms: Sorting: Counting Sort 2
 # problem url: https://www.hackerrank.com/challenges/countingsort2/problem
 # date: 8/20/2017

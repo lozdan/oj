@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Queues: Down to Zero II
 # problem url: https://www.hackerrank.com/challenges/down-to-zero-ii/problem
 # date: 9/12/2017

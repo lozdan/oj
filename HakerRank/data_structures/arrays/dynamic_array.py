@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Arrays: Dynamic Array
 # problem url: https://www.hackerrank.com/challenges/dynamic-array/problem
 # date: 8/17/2017

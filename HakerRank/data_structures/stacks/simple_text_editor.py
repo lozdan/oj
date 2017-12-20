@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Stacks: Simple Text Editor
 # problem url: https://www.hackerrank.com/challenges/simple-text-editor/problem
 # date: 9/12/2017

@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Arrays: Sparse Arrays
 # problem url: https://www.hackerrank.com/challenges/sparse-arrays/problem
 # date: 8/23/2017

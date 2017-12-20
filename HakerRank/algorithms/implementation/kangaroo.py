@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Algorithms: Implementation: Kangaroo
 # problem url: https://www.hackerrank.com/challenges/kangaroo/problem
 # date: 8/10/2017

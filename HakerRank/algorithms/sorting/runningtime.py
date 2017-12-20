@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Algorithms: Sorting: Running Time of Algorithms
 # problem url: https://www.hackerrank.com/challenges/runningtime/problem
 # date: 8/15/2017

@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Queues: Queue using Two Stacks
 # problem url: https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
 # date: 9/12/2017

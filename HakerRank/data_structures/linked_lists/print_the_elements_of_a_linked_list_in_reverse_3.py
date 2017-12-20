@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Linked Lists: Print in Reverse
 # problem url: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem
 # date: 9/3/2017

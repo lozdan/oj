@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Linked Lists: Print the Elements of a Linked List
 # problem url: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
 # date: 9/1/2017

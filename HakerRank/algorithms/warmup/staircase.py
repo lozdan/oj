@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Algorithms: Warmup: Staircase
 # problem url: https://www.hackerrank.com/challenges/staircase/problem
 # date: 7/10/2017

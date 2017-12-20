@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Stacks: Game of Two Stacks
 # problem url: https://www.hackerrank.com/challenges/game-of-two-stacks/problem
 # date: 9/10/2017

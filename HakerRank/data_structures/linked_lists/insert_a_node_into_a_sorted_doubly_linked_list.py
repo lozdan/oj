@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Linked Lists: Inserting a Node Into a Sorted Doubly Linked List
 # problem url: https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem
 # date: 9/7/2017

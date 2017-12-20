@@ -1,5 +1,5 @@
 # author: Daniel Lozano
-# source: HAckerRank ( https://www.hackerrank.com )
+# source: HackerRank ( https://www.hackerrank.com )
 # problem name: Data Structures: Stacks: Maximum Element
 # problem url: https://www.hackerrank.com/challenges/maximum-element/problem
 # date: 9/9/2017
