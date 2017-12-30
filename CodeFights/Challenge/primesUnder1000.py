@@ -4,10 +4,10 @@
 # problem url: https://codefights.com/challenge/3zzNDGzENhxgeApTp
 
 def primesUnder1000():
-    multiplos = set()
+    multiples = set()
     answer = ""
     for i in range(2, 1001):
-        if i not in multiplos:
+        if i not in multiples:
             answer = answer + "," + str(i)
-            multiplos.update(range(i*i, 1001, i))
+            multiples.update(range(i*i, 1001, i))
     return answer[1:]
