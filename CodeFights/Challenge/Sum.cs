@@ -18,9 +18,7 @@ namespace CodeFights
 
         int Sum(int a, int b)
         {
-            int carry = 0;
-            for (int i = a; i <= b; i++) carry += i;
-            return carry;
+            return ((b - a + 1) * (a + b)) / 2;
         }
     }
 }
