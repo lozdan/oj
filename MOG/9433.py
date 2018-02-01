@@ -27,5 +27,5 @@ while True:
         elif check[j] < max_value and check[j] == act_sec:
             second_place.append(j)
 
-    print(second_place)
+    print(*second_place)
 
