@@ -7,12 +7,12 @@ class Solution:
     def reverse(self, x):
         if x > 0:
             answer = self.reverse_1(x)
-            if answer < 2 ** 31 - 1:
+            if answer <= 2 ** 31 - 1:
                 return answer
             return 0
         else:
             answer = self.reverse_1(-x) * -1
-            if answer > -2 ** 31:
+            if answer >= -2 ** 31:
                 return answer
             return 0
 
