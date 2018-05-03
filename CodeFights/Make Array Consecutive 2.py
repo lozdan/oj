@@ -1,5 +1,3 @@
-
-
 def makeArrayConsecutive2(statues):
     statues.sort()
     res = 0
