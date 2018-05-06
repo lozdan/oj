@@ -1,3 +1,8 @@
+# author: Daniel Lozano
+# source: CodeFights ( https://codefights.com )
+# problem name: makeArrayConsecutive2
+# problem url: https://codefights.com/arcade/intro/level-2/bq2XnSr5kbHqpHGJC
+
 def makeArrayConsecutive2(statues):
     statues.sort()
     res = 0
