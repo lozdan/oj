@@ -1,7 +1,7 @@
 # author: Daniel Lozano
 # source: MatcomOnlineGrader (MOG) ( http://matcomgrader.com )
 # problem name: Fito Task
-# problem url: http://matcomgrader.com/problem/27/fito-task/
+# problem url: http://matcomgrader.com/problem/27/fito-task
 # date: 5/28/2017
 
 numbers = input().split()
